@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div>
       <h1>Bookkeeper!</h1>
-      <Link to="/home">Home</Link>
+      <Link to="/home">Home 2</Link>
     </div>
   );
 }
